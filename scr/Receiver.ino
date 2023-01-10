@@ -53,7 +53,7 @@ void loop(void)
       lcd.print(Message[0]);
       lcd.print(" cm");
       lcd.setCursor(0, 1);
-      lcd.print("Kelompok Apip");
+      lcd.print("Water Level");
       delay(250);
       if ( (Message[0] > 0) && (Message[0] < 10) ) // Jika jarak yang terbaca adalah dari 0 sampai 10 cm maka Buzzer dan LED 1 ON
       {
