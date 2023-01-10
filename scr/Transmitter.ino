@@ -1,12 +1,4 @@
-
-/* Cara Program NRF24L01 Untuk Water Level Arduino
-  Dev: teknisibali // Date: 11/11/2019 // www.teknisibali.com
-
-   Cara Program NRF24L01 Untuk Water Level Arduino - Coding Transmitter Menggunakan Arduino UNO
-*/
-
-// Include needed Libraries at beginning
-
+// Include library
 #include "nRF24L01.h" //Penyertaan library header nRF24L01
 #include "RF24.h"  //Penyertaan library header RF24
 #include "SPI.h" //Penyertaan library header penggunaan interface SPI
