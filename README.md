@@ -2,15 +2,11 @@
 This is a telemetry project to measure water levels using ultrasonic sensors and NRF24L01
 
 Components:
-
-- 2 buah modul NRF24L01
-2 buah Arduino uno
-c.	Sensor ultrasonic HC-SR04
-d.	LCD crystal 16 x 2
-e.	I2C LCD
-f.	Breadboard
-g.	Kabel jumper
-
+- Module NRF24L01
+- Arduino Uno
+- Ultrasonic HC-SR04
+- LCD Crystal 16 x 2
+- I2C LCD
 
 Schematic
 - Transmitter
