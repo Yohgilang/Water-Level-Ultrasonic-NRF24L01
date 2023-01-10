@@ -8,7 +8,8 @@ Components:
 - LCD Crystal 16 x 2
 - I2C LCD
 
-Schematic
+
+Schematic:
 - Transmitter
 
 ![transmitter](https://user-images.githubusercontent.com/93894711/211598306-cfd41c0f-b078-42e4-a554-88ac60bd38ed.png)
