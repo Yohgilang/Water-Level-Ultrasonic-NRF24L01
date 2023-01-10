@@ -1,6 +1,17 @@
 # Water Level Controller with Data Telemetry
 This is a telemetry project to measure water levels using ultrasonic sensors and NRF24L01
 
+Components:
+
+- 2 buah modul NRF24L01
+2 buah Arduino uno
+c.	Sensor ultrasonic HC-SR04
+d.	LCD crystal 16 x 2
+e.	I2C LCD
+f.	Breadboard
+g.	Kabel jumper
+
+
 Schematic
 - Transmitter
 
