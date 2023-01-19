@@ -26,7 +26,7 @@ Untuk pendeteksi ketinggian air digunakan sensor ultrasonik yang bekerja berdasa
 Hasil:
 - Kondisi saat muka air berada dibawah 10 cm dari sensor, LED warna merah akan menyala dan buzzer akan berbunyi sebagai tanda peringatan.
 
-![1](https://user-images.githubusercontent.com/93894711/213539898-f2598631-38df-428c-b8cd-5e297983d871.png)
+  ![1](https://user-images.githubusercontent.com/93894711/213539898-f2598631-38df-428c-b8cd-5e297983d871.png)
 
 
 - Kondisi saat muka air berada diantara 10 cm dan 30 cm dari sensor ultrasonik, LED hijau akan menyala.
